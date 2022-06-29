@@ -9,8 +9,8 @@
 
 	<artifactId>laboratoryapp-omod</artifactId>
 	<packaging>jar</packaging>
-	<name>Laboratory Module OMOD</name>
-	<description>OMOD project for Laboratory</description>
+	<name>Oncology Lab Module OMOD</name>
+	<description>OMOD project for Oncology Lab</description>
 
 	<dependencies>
 

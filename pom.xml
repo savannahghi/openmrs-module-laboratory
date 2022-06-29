@@ -5,8 +5,8 @@
 	<artifactId>laboratoryapp</artifactId>
 	<version>2.0.2-SNAPSHOT</version>
 	<packaging>pom</packaging>
-	<name>Laboratory Module App</name>
-	<description>Laboratory Module for the EHR </description>
+	<name>Oncology Lab Module App</name>
+	<description>Oncology Lab Module for the EHR </description>
 	<url>https://wiki.openmrs.org/display/docs/Laboratory+Module+Module</url>
 	
 	<developers>

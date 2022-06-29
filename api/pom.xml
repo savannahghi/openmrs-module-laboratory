@@ -9,8 +9,8 @@
 
 	<artifactId>laboratoryapp-api</artifactId>
 	<packaging>jar</packaging>
-	<name>Laboratory Module API</name>
-	<description>API project for Laboratory</description>
+	<name>Oncology Lab Module API</name>
+	<description>API project for Oncology Lab</description>
 
 	<dependencies>
 	

@@ -321,7 +321,7 @@
 				
 				<li>
 					<i class="icon-chevron-right link"></i>
-					<a>Laboratory</a>
+					<a>Oncology Lab</a>
 				</li>
 				
 				<li>
@@ -332,7 +332,7 @@
 		<div class="patient-header new-patient-header">
 			<div class="demographics">
 				<h1 class="name" style="border-bottom: 1px solid #ddd;">
-					<span>LABORATORY DASHBOARD &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
+					<span>ONCOLOGY LAB DASHBOARD &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span>
 				</h1>
 			</div>
 
