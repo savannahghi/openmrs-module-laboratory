@@ -107,20 +107,12 @@ jobs:
       - name: Check out labcore repository
         uses: actions/checkout@v3
         with:
-          repository: uonafya/ehrlaboratorycore
+          repository: ngarivictor/ehrlaboratorycore
           ref: 2.x
 
       - name: Compile and build labcore repository
         run: mvn clean install -DskipTests
 
-      - name: Check out lab repository
-        uses: actions/checkout@v3
-        with:
-          repository: savannahghi/openmrs-module-laboratory
-          ref: master
-
-      - name: Compile and build lab repository
-        run: mvn clean install -DskipTests
 
       - uses: actions/checkout@v3
 
